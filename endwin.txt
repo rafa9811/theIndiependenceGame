@@ -1,0 +1,7 @@
+2	5	It's 1-O in the afternoon, and you are watching in TV3 the results...
+10	15	Hey! Finally good news!
+10	18	TVE says that the referendum has been a success for the 'Sí'!
+10	21	And what's more, you caught worldwide attention and national recognition.
+10	24	CATALONIA WILL NOT BE SPAIN ANYMORE!
+40	40	Y O U    W O N!
+23	42	(*sigh* Finally, because time travelling mustn't be healthy)

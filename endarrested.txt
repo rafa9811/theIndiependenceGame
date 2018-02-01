@@ -1,0 +1,7 @@
+2	5	As the civil guard arrested you, you are now in your cell, but suddenly...
+20	15	A DIMENSIONAL PORTAL APPEARS!! AND OTHER YOU IS GETTING OUT OF IT!
+20	18	Puidgemont H-222: Hi, Puidgemont A-001, don't act like you're in shock,
+20	21	I'm from the Multiverse Puidgemont Asociation, where you also belong.
+5	24	Come on, let's get in, as you know, you have to go back one day until you win the elections in your dimension.
+40	40	Y O U . . . L O S T?
+15	42	(I don't know what happened, but it seems you can go back in time until you win...)

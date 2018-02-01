@@ -1,0 +1,7 @@
+2	5	It's 1-O in the afternoon, and you are watching in TV3 the results...
+10	15	The referendum was a worldwide success!
+10	18	TV3 says that this has been the referendum with the most participation in history!
+10	21	Just a little inconvenient...
+10	24	The 'No' won with a 99,9%, because YOU DID NO MEETINGS!
+40	40	Y O U    L O S T!
+23	42	(You probably did it on purpose, but next time do more meetings)

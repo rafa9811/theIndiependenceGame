@@ -1,0 +1,11 @@
+40	12	T H E   I N D I E P E N D E N C E   G A M E
+63	13	"The day before 1-O"
+58	19	THANKS FOR PLAYING!
+15	25	Powered by CUPula S.L.
+15	27	------------------------------
+15	28	|  Manuel Soto               |
+15	29	|  Rafael Hidalgo            |
+15	30	|  Carlos Hojas              |
+15	31	|  Carlos Molinero           |
+15	32	------------------------------
+58	33	Press RETURN to quit!

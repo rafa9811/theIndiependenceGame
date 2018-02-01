@@ -1,0 +1,15 @@
+2	0	0	How many hours do you spend to prepare your hairstyle? 1.It's natural, when I wake the hair is in this form. 2.2 or 3 hours, it's difficult to keep this trendy look.
+2	0	1	What is your favorite european country? 1.Belgium, the hospitality there is incredible. 2.Romania, girls there are so pretty.
+1	0	2	If, for some reason, all goes wrong and you are in arrest warrant, what would you do? 1.Stay and fight for my country. 2.Run away to another country.
+2	1	0	Is it true that you used to play Call of Duty with Donald Trump? 1.Yes, he is a camper. 2.No, we only played Risk and he is a genius.
+2	1	1	What is your favorite music band? 1.I love Love of Lesbian, but only the ones with the lyrics in catalonian(or english). 2.Serrat, although he doesn't share our ideas.
+2	1	2	What do you like to eat the most? 1.Butifarra. 2.Pa amb tomaquet.
+2	2	0	¿Will be Cobi (mascot of OG) part of our new flag? 1.Of course, we want Cobi to represent us. 2.No, we will use Paulinho's face instead.
+2	2	1	If we had to create a new sport for a new country, ¿which would be? 1.Running but instead of hurdles, we will use civil guards. 2.Shooting plates with Rajoy's face.
+1	2	2	Which will be the ideal body figure of catalonians? 1.Ada Colau. 2.Carme Barceló.
+1	3	0	Will be taxes for the merchandises that arrive to the port? 1.If the merchandise is butifarra, no. 2.Catalonia will not need anything from other parts of the world.
+1	3	1	What do you prefer, Looney Tunes or Supernenas? 1.Looney Tunes, they are the symbol of civil guards. 2.Supernenas, I watch them every day.
+2	3	2	Do naked beachs will be allowed? 1. Yes, catalonians are free to do what they want. 2.No, Rajoy could take photos of us with drones.
+1	4	0	Would Gaudi be treated as a God? 1.The only god of Catalonia is me. 2.Of course, he is a symbol of how incredible catalonians are.
+1	4	1	Are true the rumors of bringing Gaudi back to life? 1. We are now busy working on creating Jordi Puyol clones. 2.Being honest, they are true.
+1	4	2	Was Jesuschrist catalonian? 1.Yes. 2.I am Jesuschrist

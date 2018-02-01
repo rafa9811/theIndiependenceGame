@@ -1,0 +1,9 @@
+a ballot box	0	0	0	0	0	0	0	0	1	0	0	0	500
+TV3	3	0	0	0	0	0	0	0	1	500	10	100	1300
+civil guard suit	6	0	0	0	0	0	0	0	1	0	-1000	0	300
+big canvas	7	0	0	0	0	0	0	0	1	0	-2000	0	1500
+twitter russian bots	8	0	0	0	0	0	0	0	1	50	0	50	150
+Julian Assange testimony	9	0	0	0	0	0	0	0	1	50	0	50	150
+Motivate Venezuela demonstrations	10	0	0	0	0	0	0	0	1	0	0	-750	200
+Trump support	11	0	0	0	0	0	0	0	1	-100	0	0	300
+Erase 155 statement	12	0	0	0	0	0	0	0	1	0	0	0	2200

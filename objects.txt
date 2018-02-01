@@ -1,0 +1,29 @@
+a vertigo ballot box	0	15	10	20	0	0	1	1	1	0	0	0	0
+a san ballot box	0	22	28	25	0	0	1	1	1	0	0	0	0
+a balguell box	0	10	42	7	0	0	1	1	1	0	0	0	0
+monte box	0	16	51	29	0	0	1	1	1	0	0	0	0
+a trash ballot box	0	3	11	11	0	0	1	1	1	0	0	0	0
+TV3 printer	1	14	74	12	0	0	0	1	1	0	0	0	0
+Shopcenter printer	1	20	9	11	0	0	0	1	1	0	0	0	0
+gothic printer	1	5	55	11	0	0	0	1	1	0	0	0	0
+university printer	1	2	24	19	0	0	0	1	1	0	0	0	0
+canon printer	1	25	28	34	0	0	0	1	1	0	0	0	0
+Shop	2	0	71	12	0	0	0	1	0	0	0	0	0
+principal meeting	0	1	62	11	0	1	0	1	1	0	0	0	0
+meeting gracioso	1	4	56	8	0	1	0	1	1	0	0	0	0
+olympic meeting	2	7	31	10	0	1	0	1	1	0	0	0	0
+meeting port	3	6	21	12	0	1	0	1	1	0	0	0	0
+family meeting	4	18	23	26	0	1	0	1	1	0	0	0	0
+From the Bar	0	11	12	21	1	0	0	1	9	0	0	0	0
+PujolToken	13	3	34	26	0	0	1	1	1	0	0	0	100
+PujolToken	13	6	72	21	0	0	1	1	1	0	0	0	100
+PujolToken	13	13	33	6	0	0	1	1	1	0	0	0	100
+PujolToken	13	24	56	11	0	0	1	1	1	0	0	0	100
+Disgraceful supper	14	21	42	30	0	0	1	1	1	0	-1500	0	 0
+A pile of sand	15	22	52	31	0	0	1	1	1	0	0	0	0
+Oriol	1	0	13	22	1	0	0	1	6	0	0	0	0
+Old man	2	16	24	17	1	0	0	1	1	0	0	0	0
+Feriant	3	15	61	32	1	0	0	1	1	0	0	0	0
+Impartial journalist	4	14	62	41	1	0	0	1	1	0	0	0	0
+batllo npc	5	19	9	26	1	0	0	1	1	0	0	0	0
+Priest	6	18	57	22	1	0	0	1	1	0	0	0	0

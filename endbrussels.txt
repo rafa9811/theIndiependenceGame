@@ -1,0 +1,7 @@
+2	5	It's 1-O in the afternoon, and you are watching in TV3 the results...
+10	15	Well, it seems like the 'Sí' has won.
+10	18	But due to having a reduced participation, there is a lot of debate...
+10	21	This is not what you wanted, it would have been better to have more worldwide attention.
+10	24	Nobody knows what will happen, but meanwhile let's escape to Brussels, you don't want to go to jail!
+40	40	Y O U    L O S T!
+23	42	(If you had a time machine to do it better next time...)

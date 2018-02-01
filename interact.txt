@@ -1,0 +1,6 @@
+Objects	objects.txt
+Inventory	inventory.txt
+Shop	shop.txt
+Map	map.txt
+Dialogs	dialogs.txt
+Meetings	meetings.txt

@@ -1,0 +1,46 @@
+0	9	I am an old wise, who knows everything about this city.
+0	8	Ginebra...
+0	7	I think this is not my lab.
+0	6	If you have any doubt, please, google it.
+0	5	Please, give me your laptop... Well, I cannot repair your Netbeans.
+0	4	I think you have enough time to solve your doubts.
+0	3	Well, talk to the coordinator.
+0	2	Qué P4 ni qué P4.
+0	1	Ah... mmm... five minutes, well, maybe tomorrow... mmm, that's not me.
+0	0	Well, you have suffered all my "turra". I will share with you my knowledge. As you probably has already guessed, the graphics of this game are as good as Sheriton. So, if you really want to know which is the symbol for every object, here it is:Ballot box-O, printer-*, shop and normal objects-X.
+1	6	Hi president. We have some issues with all the preparations for the referendum day.
+1	5	The civil guards has confiscated us all the ballot boxes in order to vote, and also they are in every place of the city keeping an eye of our movements.
+1	4	So, I would like to help you, but today I have the surgery of my eye. You have to do it alone.
+1	3	The Looney Tunes ship is full, so they couldn't keep the ballot boxes. For that reason, they have hidden them throughout the city.
+1	2	Also, with all these accidents, catalonian people have lost the faith, so you have to encourage them with your wonderful speeches. But remember, while moving through the city and speaking to them, you have to be anonymous in order to avoid civil guards, so be dressed up like an @. Only in the meetings you will be Puidgemont.
+1	1	However, as you are doing things, chaos will be increased, so civil guards will start to suspect of your costume, so be careful.
+1	0	It is our last opportunity to make our big dream come true, so please, do not waste it. Good luck.
+2	1	I love the mountain. You can take a rest, and also you can plant your vegetables.
+2	0	Sometimes, I have seen Puidgemont recollecting tomatoes. I don't know why.
+3	1	Last day, civil guards come here to the big wheel, probably they were doing something.
+3	0	Love of Lesbian do a lot of gigs here thanks to government funds, but, if I can remember well, Serrat used to do a lot of rehearsals here, and always a woman came with his son to hear Serrat lyrics. The hair of the son was quite familiar...
+4	1	Catalonians love videogames, and Puidgemont use to come here with his PS4 to steal TV3 wifi and play.
+4	0	To be honest, he was a camper.
+5	1	I think that I´m mad.
+5	0	Jordi Puyol is in prison, but I'm sure I have seen him in the street.
+6	1	We've been doing some investigation about religion.
+6	0	The last results have concluded that Jesuschrist lived in Catalonia, and not in Jerusalem.
+7	1	Some people say that Puidgemont is preparing a new religion with a new god.
+7	0	Who would be the new god?
+8	1	It's so ridiculous to see all the civil guards staying in this ship.
+8	0	I've heard that also Puidgemont was trying to bring another ship from his favorite cartoon show... He has the same hairstyle of one of the main characters.
+9	1	A lot of shops are closing in the mall.
+9	1	Some owners say that the reason is that they are not going to be able to receive more clothes and material, so they do not have another option.
+10	0	Probably you are going to think that I´m crazy, but since yesterday I've started to see strange objects flying through the beach...
+11	1	There have been a lot of photographers in the Camp Nou during the last days.
+11	0	They've been working with Paulinho, I think, but I don´t know why.
+12	1	Since yesterday I've heard a lot of shots.
+12	0	I don't know why, but after the shot it was like something broken.
+13	1	A lot of publishers are looking for new images for their catalonian products.
+13	0	The popularity of Chiricirco has risen up, for example Quim Domenech announces products for avoiding hair-lose.
+14	1	The president always arrives late in the morning.
+14	0	I don't know in what activity does he waste his time...
+15	1	Have you ever seen Puid's wife?
+15	0	Well, she's... peculiar. Her accent is quite strange, like she was foreign. Like from... Budapest? or Bucarest?
+16	1	I used to be a part of Puidgemont's election team.
+16	0	I decided to give up, he is a liar. He just says what people want to hear, keep that in mind.

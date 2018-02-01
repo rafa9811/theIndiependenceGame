@@ -1,0 +1,3 @@
+Puigdephone (call Mas)	4	0	0	0	0	0	0	0	1	0	0	0	-1
+Puigdephone (call Puyol)	4	0	0	0	0	0	0	0	1	0	0	0	20
+your hair Comb	5	0	0	0	0	0	0	0	1	0	0	1	0

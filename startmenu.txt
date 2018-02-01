@@ -1,0 +1,11 @@
+15	10	CUPula S.L. presents...
+15	12	T H E   I N D I E P E N D E N C E   G A M E
+38	13	"The day before 1-O"
+15	25	HOW TO PLAY
+15	27	------------------------------
+15	28	|  Arrow Keys -> MOVE        |
+15	29	|  A -> INTERACT             |
+15	30	|  I -> OPEN/CLOSE INVENTORY |
+15	31	|  Q -> QUIT :(	            |
+15	32	------------------------------
+58	33	Press RETURN to start!

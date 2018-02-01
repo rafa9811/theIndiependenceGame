@@ -1,0 +1,7 @@
+2	5	It's 1-O in the afternoon, and you are watching in TV3 the results...
+10	15	Well, it seems like the referendum was a chaos.
+10	18	TV3 says that people were motivated to vote.
+10	21	And what's more, the people were motivated to vote 'Sí'.
+10	24	BUT THERE WERE NO BALLOTS FOR VOTING!
+40	40	Y O U    L O S T!
+23	42	(You probably did it on purpose, but next time turn on more printers)
