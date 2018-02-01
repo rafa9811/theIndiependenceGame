@@ -6,6 +6,7 @@ AUTONOMOUS UNIVERSITY OF MADRID.
 
 
 In terminal:
+
   make
   
   ./theindiependencegame
